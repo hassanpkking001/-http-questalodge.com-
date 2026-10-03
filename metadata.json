@@ -1,0 +1,6 @@
+{
+  "name": "Questa Lodge & RV Resort - Modern Experience & AI Concierge",
+  "description": "High-performance, accessible redesign for Questa Lodge & RV Resort on the Red River, NM featuring 24/7 AI Concierge, RV specs, pet rules, and instant lead capture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
